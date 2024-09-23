@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    font-size: 20px;
+    font-family: 'Cutive-Mono', monospace;
+    background-color: var(--body-color);
+    color: var(--main_color);
+}
+
+/*variáveis*/
+:root{
+    --altura_header: 65px;
+    --altura_footer: 60px;
+    --main_color: #2c3136;
+    --main-hover-color: #afcedf;
+    --body-color: #ffffff;
+    --second-color: beige;
+    --third_color: #2c3136ad;
+}
+

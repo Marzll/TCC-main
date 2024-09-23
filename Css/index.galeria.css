@@ -1,0 +1,19 @@
+@import url(style.css);
+@import url(header.css);
+@import url(estrutura.css);
+@import url(footer.css);
+@import url(botão_top.css);
+ 
+.vertical{
+    max-width: 200px;
+    width: 70vw;
+}
+
+.horizontal{
+    width: 70vw;
+    max-width: 600px
+}
+
+h4{
+    text-align: center;
+}
